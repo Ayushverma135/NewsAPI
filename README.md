@@ -1,4 +1,4 @@
-# newsAPI
+# NewsAPI
 
 A new Flutter project.
 

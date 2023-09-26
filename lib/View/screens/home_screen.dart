@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            "News App",
+            "NewsAPI",
             style: Theme.of(context).textTheme.titleMedium,
           ),
           centerTitle: true,
